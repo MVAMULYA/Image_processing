@@ -10,4 +10,4 @@ A python program that uses face_recognition library to train or encode faces. Wh
 
 #### OpenCV_logo.py
 
-Python program to draw open CV logo. 
+Python program to draw openCV logo. 
