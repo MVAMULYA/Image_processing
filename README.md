@@ -1,4 +1,4 @@
-# LearnComputerVision
+
 
 #### face_detect.py
  
