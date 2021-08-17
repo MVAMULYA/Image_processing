@@ -11,3 +11,7 @@ A python program that uses face_recognition library to train or encode faces. Wh
 #### OpenCV_logo.py
 
 Python program to draw openCV logo. 
+
+#### Image Blending
+
+Python program to create smooth side by side blending of images using Gaussian and Laplacian Pyramids.
